@@ -1,1 +1,1 @@
-print("Hello")
+# Load Data from data folder

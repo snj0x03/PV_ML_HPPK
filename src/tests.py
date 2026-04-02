@@ -1,1 +1,1 @@
-print("Hello")
+# Tests for every modules
